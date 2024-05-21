@@ -1,0 +1,15 @@
+C:\Ucne\4to decimo\Simulación digital\Dado\bin\Debug\net7.0\Dado.exe
+C:\Ucne\4to decimo\Simulación digital\Dado\bin\Debug\net7.0\Dado.deps.json
+C:\Ucne\4to decimo\Simulación digital\Dado\bin\Debug\net7.0\Dado.runtimeconfig.json
+C:\Ucne\4to decimo\Simulación digital\Dado\bin\Debug\net7.0\Dado.dll
+C:\Ucne\4to decimo\Simulación digital\Dado\bin\Debug\net7.0\Dado.pdb
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.csproj.AssemblyReference.cache
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.AssemblyInfoInputs.cache
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.AssemblyInfo.cs
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.csproj.CoreCompileInputs.cache
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.dll
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\refint\Dado.dll
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.pdb
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\Dado.genruntimeconfig.cache
+C:\Ucne\4to decimo\Simulación digital\Dado\obj\Debug\net7.0\ref\Dado.dll
